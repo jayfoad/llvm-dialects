@@ -72,6 +72,4 @@ public:
   }
 };
 
-bool noMemoryEffects();
-
 } // namespace llvm_dialects
